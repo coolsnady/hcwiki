@@ -8,8 +8,8 @@
 
 1. تحميل الملف الصحيح
 
-    For 32-bit computers, download the `decred-darwin-386-v1.1.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.1.0.tar.gz` file.
+    For 32-bit computers, download the `decred-darwin-386-v2.0.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-darwin-amd64-v2.0.0.tar.gz` file.
 
 2. انتقل الى تنزيل الموقع واستخراج ملف .tar.gz:
 
@@ -18,24 +18,24 @@
 
    ** ملاحظة **: إذا كنت تستخدم سفاري على ماك سييرا يجب ان يكون "فتحه" آمن "للملفات بعد تحميلها" وتمكين التفضيلات، الملفات .gz و. zip تلقائيا من ان يكونن غير مضغوط بعد التحميل. ينتج الأمر `تار -xvzf filename.tar.gz` هذا الخطأ: `tar: خطأ في فتح الأرشيف: فشل فتح 'filename.tar.gz'`. اي استخدم `tar -xvzf filename.tar` بدلا من ذلك (قم بإزالة .gz من الأمر السابق).
     
-    Both of these should extract the tar into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v1.1.0.tar.gz` should extract to `decred-darwin-amd64-v1.1.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
+    Both of these should extract the tar into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v2.0.0.tar.gz` should extract to `decred-darwin-amd64-v2.0.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
 
 
 > Linux
 
 1. حمل الملف الصحيح
 
-    For 32-bit computers, download the `decred-linux-386-v1.1.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.1.0.tar.gz` file. <br />
-    For 32-bit ARM computers, download the `decred-linux-arm-v1.1.0.tar.gz` file. <br />
-    For 64-bit ARM computers, download the `decred-linux-arm64-v1.1.0.tar.gz` file.
+    For 32-bit computers, download the `decred-linux-386-v2.0.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-darwin-amd64-v2.0.0.tar.gz` file. <br />
+    For 32-bit ARM computers, download the `decred-linux-arm-v2.0.0.tar.gz` file. <br />
+    For 64-bit ARM computers, download the `decred-linux-arm64-v2.0.0.tar.gz` file.
 
 2. انتقل إلى تنزيل الموقع واستخراج ملف .tar.gz:
 
    أوبونتو متصفح الملفات: ببساطة انقر بزر الماوس الأيمن على .tar.gz وحدد "استخراج هنا" <br />
     المحطة الطرفية: استخدم الأمر ` tar -xvzf filename.tar.gz`.
     
-    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v1.1.0.tar.gz` should extract to `decred-darwin-amd64-v1.1.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
+    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v2.0.0.tar.gz` should extract to `decred-darwin-amd64-v2.0.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
 
 > Windows
 
@@ -43,8 +43,8 @@
 
 1. حمل الملف الصحيح
 
-    For 32-bit computers, download the `decred-windows-386-v1.1.0.zip` file. <br />
-    For 64-bit computers, download the `decred-windows-amd64-v1.1.0.zip` file.
+    For 32-bit computers, download the `decred-windows-386-v2.0.0.zip` file. <br />
+    For 64-bit computers, download the `decred-windows-amd64-v2.0.0.zip` file.
 
 2. انتقل إلى تنزيل الموقع وفك ضغط الملف `.zip`:
 

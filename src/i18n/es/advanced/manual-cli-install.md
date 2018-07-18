@@ -8,8 +8,8 @@ The newest Binary Releases can be found here: [https://github.com/decred/decred-
 
 1. Descargue el archivo correcto :
 
-    For 32-bit computers, download the `decred-darwin-386-v1.1.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.1.0.tar.gz` file.
+    For 32-bit computers, download the `decred-darwin-386-v2.0.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-darwin-amd64-v2.0.0.tar.gz` file.
 
 2. Navegue hasta la ubicación de descarga y extraiga el archivo .tar.gz:
 
@@ -18,24 +18,24 @@ The newest Binary Releases can be found here: [https://github.com/decred/decred-
 
    **NOTA**: Si está usando Safari en MacOS Sierra y tiene los archivos 'Open' seguros 'después de descargar', los archivos .gz y .zip se descomprimen automáticamente después de la descarga. El comando `tar -xvzf nombrearchivo.tar.gz` da como resultado este error:` tar: Error al abrir el archivo: Error al abrir 'nombrearchivo.tar.gz'`. Use `tar -xvzf nombrearchivo.tar` (quite el .gz del comando anterior).
     
-    Both of these should extract the tar into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v1.1.0.tar.gz` should extract to `decred-darwin-amd64-v1.1.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
+    Both of these should extract the tar into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v2.0.0.tar.gz` should extract to `decred-darwin-amd64-v2.0.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
 
 
 > Linux
 
 1. Descargue el archivo correcto:
 
-    For 32-bit computers, download the `decred-linux-386-v1.1.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.1.0.tar.gz` file. <br />
-    For 32-bit ARM computers, download the `decred-linux-arm-v1.1.0.tar.gz` file. <br />
-    For 64-bit ARM computers, download the `decred-linux-arm64-v1.1.0.tar.gz` file.
+    For 32-bit computers, download the `decred-linux-386-v2.0.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-darwin-amd64-v2.0.0.tar.gz` file. <br />
+    For 32-bit ARM computers, download the `decred-linux-arm-v2.0.0.tar.gz` file. <br />
+    For 64-bit ARM computers, download the `decred-linux-arm64-v2.0.0.tar.gz` file.
 
 2. Navegue hasta la ubicación de descarga y extraiga el archivo .tar.gz:
 
     Explorador de Archivos Ubuntu: simplemente haga click derecho en el archivo .tar.gz y presione "Extraer Aqui". <br />
    Terminal: utilice el comando `tar -xvzf nombredearchivo.tar.gz`.
     
-    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v1.1.0.tar.gz` should extract to `decred-darwin-amd64-v1.1.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
+    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v2.0.0.tar.gz` should extract to `decred-darwin-amd64-v2.0.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
 
 >Windows
 
@@ -43,8 +43,8 @@ Nota: Windows 7/8/10 proporciona soporte nativo para los archivos `.zip`, por lo
 
 1. Descargue el archivo correcto:
 
-    For 32-bit computers, download the `decred-windows-386-v1.1.0.zip` file. <br />
-    For 64-bit computers, download the `decred-windows-amd64-v1.1.0.zip` file.
+    For 32-bit computers, download the `decred-windows-386-v2.0.0.zip` file. <br />
+    For 64-bit computers, download the `decred-windows-amd64-v2.0.0.zip` file.
 
 2. Navegue hasta la ubicación de descarga y descomprima el archivo `.zip`:
 

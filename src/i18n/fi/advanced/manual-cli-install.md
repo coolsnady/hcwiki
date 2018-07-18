@@ -8,8 +8,8 @@ The newest Binary Releases can be found here: [https://github.com/decred/decred-
 
 1. Lataa tarvitsemasi tiedosto:
 
-    For 32-bit computers, download the `decred-darwin-386-v1.1.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.1.0.tar.gz` file.
+    For 32-bit computers, download the `decred-darwin-386-v2.0.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-darwin-amd64-v2.0.0.tar.gz` file.
 
 2. Mene latauskansioon ja pura .tar.gz tiedosto:
 
@@ -18,24 +18,24 @@ The newest Binary Releases can be found here: [https://github.com/decred/decred-
 
     **HUOM**: jos käytät Safaria macOS Sierralla ja sinulla on 'Open "safe" files after downloading' -toiminto käytössä, .gz ja .zip-tiedostot puretaan automaattisesti lataamisen jälkeen. `tar -xvzf filename.tar.gz` -komento palauttaa virheilmoituksen:  `tar: Error opening archive: Failed to open 'filename.tar.gz'`. Käytä sen sijaan komentoa `tar -xvzf filename.tar` (poista .gz edellisestä komennosta).
     
-    Both of these should extract the tar into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v1.1.0.tar.gz` should extract to `decred-darwin-amd64-v1.1.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
+    Both of these should extract the tar into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v2.0.0.tar.gz` should extract to `decred-darwin-amd64-v2.0.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
 
 
 > Linux
 
 1. Lataa tarvitsemasi tiedosto:
 
-    For 32-bit computers, download the `decred-linux-386-v1.1.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.1.0.tar.gz` file. <br />
-    For 32-bit ARM computers, download the `decred-linux-arm-v1.1.0.tar.gz` file. <br />
-    For 64-bit ARM computers, download the `decred-linux-arm64-v1.1.0.tar.gz` file.
+    For 32-bit computers, download the `decred-linux-386-v2.0.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-darwin-amd64-v2.0.0.tar.gz` file. <br />
+    For 32-bit ARM computers, download the `decred-linux-arm-v2.0.0.tar.gz` file. <br />
+    For 64-bit ARM computers, download the `decred-linux-arm64-v2.0.0.tar.gz` file.
 
 2. Mene latauskansioon ja pura .tar.gz tiedosto:
 
     Ubuntu File Browser: klikkaa .tar.gz-tiedostoa oikealla näppäimellä ja valitse "Extract Here". <br />
     Terminal: Käytä komentoa `tar -xvzf filename.tar.gz`.
     
-    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v1.1.0.tar.gz` should extract to `decred-darwin-amd64-v1.1.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
+    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v2.0.0.tar.gz` should extract to `decred-darwin-amd64-v2.0.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
 
 > Windows
 
@@ -43,8 +43,8 @@ Huom: Windows 7/8/10 tukee `.zip`-tiedostoja, joten on suositeltavaa käyttää 
 
 1. Lataa tarvitsemasi tiedosto:
 
-    For 32-bit computers, download the `decred-windows-386-v1.1.0.zip` file. <br />
-    For 64-bit computers, download the `decred-windows-amd64-v1.1.0.zip` file.
+    For 32-bit computers, download the `decred-windows-386-v2.0.0.zip` file. <br />
+    For 64-bit computers, download the `decred-windows-amd64-v2.0.0.zip` file.
 
 2. Mene latauskansioon ja pura `.zip`- tiedosto:
 

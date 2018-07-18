@@ -30,7 +30,7 @@ Berikut adalah petunjuk untuk berpartisipasi dalam demo pemungutan suara di Test
 
 > Langkah 1: Download dan Install Paymetheus
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
 
 > Langkah 2: Run Decred Testnet
 
@@ -70,7 +70,7 @@ Untuk beberapa informasi dasar tentang bitsuara, kunjungi [An Explanation of Vot
 
 > Langkah 1: Download dan Install Decred
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
 
 > Langkah 2: Buat File Config
 

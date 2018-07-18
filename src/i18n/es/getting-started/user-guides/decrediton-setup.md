@@ -12,7 +12,7 @@ NOTA: Si en algún momento el programa deja de responder o se queda atascado en 
 
 ## Descargar e Instalar
 
-Decrediton is released with the Binary Releases and can be found here: [https://github.com/decred/decred-binaries/releases/tag/v1.1.0](https://github.com/decred/decred-binaries/releases/tag/v1.1.0). As of v1.1.0, Decrediton is only available for Linux and macOS.
+Decrediton is released with the Binary Releases and can be found here: [https://github.com/decred/decred-binaries/releases/tag/v2.0.0](https://github.com/decred/decred-binaries/releases/tag/v2.0.0). As of v2.0.0, Decrediton is only available for Linux and macOS.
 
 > macOS
 
@@ -31,7 +31,7 @@ Decrediton is released with the Binary Releases and can be found here: [https://
     Explorador de Archivos Ubuntu: simplemente haga click derecho en el archivo .tar.gz y presione "Extraer Aqui". <br />
    Terminal: utilice el comando `tar -xvzf nombredearchivo.tar.gz`.
 
-    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decrediton-v1.1.0.tar.gz` should extract to `decrediton-v1.1.0`). If successful, this new folder should include a `decrediton` executable.
+    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decrediton-v2.0.0.tar.gz` should extract to `decrediton-v2.0.0`). If successful, this new folder should include a `decrediton` executable.
 
 ---
 

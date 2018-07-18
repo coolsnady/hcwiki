@@ -20,11 +20,11 @@
 
 Нижче Ви знайдете список доступних зараз додатків, зі схемою, що показує їх сумісність з різними операційними системами.
 
-**Paymetheus**: The only Windows GUI client as of v1.1.0. <br />
+**Paymetheus**: The only Windows GUI client as of v2.0.0. <br />
 **dcrd**: The node daemon, this command-line application handles block management and consensus. <br />
 **dcrwallet**: The wallet daemon, this command-line application handles address and transaction management. <br />
 **dcrctl**: The remote procedure call (RPC) client, this command-line application is used to control dcrd and dcrwallet via RPC commands. <br />
-**Decrediton**: Cross-platform GUI client as of v1.1.0.
+**Decrediton**: Cross-platform GUI client as of v2.0.0.
 
 |           | Paymetheus | dcrd | dcrwallet | dcrctl | Decrediton |
 | ---------:|:----------:|:----:|:---------:|:------:|:-----------:|

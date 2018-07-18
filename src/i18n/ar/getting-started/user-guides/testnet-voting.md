@@ -30,7 +30,7 @@
 
 > الخطوة 1: تحميل وتثبيت الدفع
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
 
 > الخطوة 2: تشغيل اختبار صافي الشبكة من Decred
 
@@ -70,7 +70,7 @@ If you haven't already updated your Decred binaries to v1.1.0, visit the [Instal
 
 > خطوة 1: تحميل وتثبيت Decred
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
 
 > خطوة 2: قم بإنشاء ملفات التهيئة
 

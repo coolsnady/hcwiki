@@ -4,7 +4,7 @@
 
 ## Block header format 
 
-Decred block headers occupy 180 bytes when serialized. The
+Coolsnady block headers occupy 180 bytes when serialized. The
 serialization format for a block header is displayed below:
 
 Field          | Description                                                                 | Size

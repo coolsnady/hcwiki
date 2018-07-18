@@ -30,7 +30,7 @@
 
 > Крок 1: Завантажте та встановіть Paymetheus
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
 
 > Крок 2: Запустіть Decred Testnet
 
@@ -70,7 +70,7 @@ In the `Paymetheus` window, you'll be greated by a "Connect to dcrd" dialog. Kee
 
 > Крок 1: Завантажте та встановіть Decred
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
 
 > Крок 2: Створіть конфігураційні файли
 

@@ -33,7 +33,7 @@ jobs:
       - run: yarn build:development
       - run: yarn deploy:build:docker
       - run: docker login --username=_ --password=$HEROKU_TOKEN registry.heroku.com
-      - run: docker tag decred/dcrdocs:latest registry.heroku.com/dcrdocs/web
+      - run: docker tag coolsnady/dcrdocs:latest registry.heroku.com/dcrdocs/web
       - run: docker push registry.heroku.com/dcrdocs/web
 
 # workflows:

@@ -1,6 +1,6 @@
 # Buying Tickets With hcwallet
 
-Last updated for v1.1.2
+Last updated for v2.0.0
 
 This guide is intended to walk through ticket buying using `hcwallet`. It will cover both manual ticket purchases and automatic ticket purchases for solo-voting and stakepool-voting configurations.
 

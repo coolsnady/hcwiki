@@ -30,7 +30,7 @@ Ci-dessous sont des instructions pour participer à la démo de vote sur le Test
 
 > Step 1: Download and Install Paymetheus
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
 
 > Étape 2: Démarrer Decred Testnet
 
@@ -70,7 +70,7 @@ Pour certaines informations de base sur les Votebits, visitez [Une Explication d
 
 > Étape 1: Télécharger et installer Decred
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
 
 > Étape 2: Créer des fichiers de configuration
 

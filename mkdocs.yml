@@ -16,8 +16,8 @@ extra:
     - type: 'youtube'
       link: 'https://www.youtube.com/decredchannel'
 site_url: https://docs.decred.org
-repo_url: https://github.com/decred/dcrdocs
-repo_name: decred/dcrdocs
+repo_url: https://github.com/coolsnady/hcwiki
+repo_name: coolsnady/hcwiki
 markdown_extensions:
   - markdown.extensions.footnotes
   - markdown.extensions.smarty

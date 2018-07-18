@@ -20,11 +20,11 @@ Decred에 오신 것을 환영합니다! 우리는 당신을 매우 기쁘게 �
 
 아래에는 다양한 운영 체제와의 호환성을 보여주는 차트와 함께 현재 사용 가능한 응용 프로그램 목록이 나와 있습니다.
 
-**Paymetheus**: The only Windows GUI client as of v1.1.0. <br />
+**Paymetheus**: The only Windows GUI client as of v2.0.0. <br />
 **dcrd**: The node daemon, this command-line application handles block management and consensus. <br />
 **dcrwallet**: The wallet daemon, this command-line application handles address and transaction management. <br />
 **dcrctl**: The remote procedure call (RPC) client, this command-line application is used to control dcrd and dcrwallet via RPC commands. <br />
-**Decrediton**: Cross-platform GUI client as of v1.1.0.
+**Decrediton**: Cross-platform GUI client as of v2.0.0.
 
 |           | Paymetheus | dcrd | dcrwallet | dcrctl | Decrediton |
 | ---------:|:----------:|:----:|:---------:|:------:|:-----------:|

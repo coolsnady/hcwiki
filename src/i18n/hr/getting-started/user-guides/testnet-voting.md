@@ -30,7 +30,7 @@ Ispod su upute za sudjelovanje u demo verziji na testnetu koristeći zalihaulaga
 
 > Korak 1: Preuzmite i instalirajte Paymetheus
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
 
 > Korak 2: Pokrenite Decred Testnet
 
@@ -70,7 +70,7 @@ Za neke osnovne informacije o glasovima, posjetite [Objašnjenje glasova](#an-ex
 
 > Korak 1: Preuzmite i instalirajte Decred
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
 
 > Korak 2: Stvorite konfiguracijske datoteke
 

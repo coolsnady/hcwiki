@@ -30,7 +30,7 @@ Alla ohjeet demoäänestykseen osallistumiseen Testnetissä stakepoolin kautta P
 
 > 1: Lataa ja Asenna Paymetheus
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
 
 >2: Käynnistä Decred Testnet
 
@@ -70,7 +70,7 @@ Saadaksesi perustietoa Votebitseistä käy osoitteessa [An Explanation of Votebi
 
 > Vaihe 1: Lataa ja asenna Decred
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
 
 > Vaihe 2: Tee Config-Tiedostot
 

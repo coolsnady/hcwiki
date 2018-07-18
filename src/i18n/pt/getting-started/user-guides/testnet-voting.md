@@ -30,7 +30,7 @@ Abaixo estão instruções para participar da votação de demonstração na Tes
 
 > Passo 1: Baixe e instale a Paymetheus
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
 
 > Passo 2: Execute o Decred Testnet
 
@@ -70,7 +70,7 @@ Para saber mais informações básicas sobre Votebits, visite [Explicação de V
 
 > Passo 1: Baixe e instale a Decred
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
 
 > Passo 2: Crie os arquivos de configuração
 

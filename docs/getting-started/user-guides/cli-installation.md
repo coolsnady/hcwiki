@@ -1,6 +1,6 @@
 # <img class="dcr-icon" src="/img/dcr-icons/Dcrtl.svg" /> CLI Installation guide
 
-This page was last updated for v1.1.2.
+This page was last updated for v2.0.0.
 
 ---
 
@@ -16,16 +16,16 @@ This page was last updated for v1.1.2.
 
 1. Download the correct file:
 
-    For 32-bit computers, download the `hcinstall-darwin-386-v1.1.2` file. <br />
-    For 64-bit computers, download the `hcinstall-darwin-amd64-v1.1.2` file.
+    For 32-bit computers, download the `hcinstall-darwin-386-v2.0.0` file. <br />
+    For 64-bit computers, download the `hcinstall-darwin-amd64-v2.0.0` file.
 
 2. Make hcinstall-darwin-xxxx-vx.x.x an executable within your terminal, and run it:
 
     Navigate to the directory where the hcinstall file was downloaded using the `cd` command, run chmod with u+x mode on the hcinstall file, and run the executable that is created. Below is an example of the commands (change directories or filename as needed):
     
     `cd ~/Downloads/` <br />
-    `chmod u+x hcinstall-darwin-amd64-v1.1.2` <br />
-    `./hcinstall-darwin-amd64-v1.1.2`
+    `chmod u+x hcinstall-darwin-amd64-v2.0.0` <br />
+    `./hcinstall-darwin-amd64-v2.0.0`
     
 3. The executable binaries for `hcd`, `hcwallet`, and `hcctl` can now be found in the `~/decred/` directory. Before the `hcinstall` process completes, you will be taken to the wallet creation prompt. Follow the steps within the [Wallet Creation Walkthrough](/getting-started/user-guides/hcwallet-setup.md#wallet-creation-walkthrough) of the hcwallet Setup guide to finish.
 
@@ -33,18 +33,18 @@ This page was last updated for v1.1.2.
 
 1. Download the correct file:
 
-    For 32-bit computers, download the `hcinstall-linux-386-v1.1.2` file. <br />
-    For 64-bit computers, download the `hcinstall-linux-amd64-v1.1.2` file. <br />
-    For 32-bit ARM computers, download the `hcinstall-linux-arm-v1.1.2` file. <br />
-    For 64-bit ARM computers, download the `hcinstall-linux-arm64-v1.1.2` file.
+    For 32-bit computers, download the `hcinstall-linux-386-v2.0.0` file. <br />
+    For 64-bit computers, download the `hcinstall-linux-amd64-v2.0.0` file. <br />
+    For 32-bit ARM computers, download the `hcinstall-linux-arm-v2.0.0` file. <br />
+    For 64-bit ARM computers, download the `hcinstall-linux-arm64-v2.0.0` file.
 
 2. Make hcinstall-linux-xxxx-vx.x.x an executable within your terminal, and run it:
 
     Navigate to the directory where the hcinstall file was downloaded using the `cd` command, run chmod with u+x mode on the hcinstall file, and run the executable that is created. Below is an example of the commands (change directories or filename as needed):
     
     `cd ~/Downloads/` <br />
-    `chmod u+x hcinstall-linux-amd64-v1.1.2` <br />
-    `./hcinstall-linux-amd64-v1.1.2`
+    `chmod u+x hcinstall-linux-amd64-v2.0.0` <br />
+    `./hcinstall-linux-amd64-v2.0.0`
     
 3. The binaries for `hcd`, `hcwallet`, and `hcctl` can now be found in the `~/decred/` directory. Before the `hcinstall` process completes, you will be taken to the wallet creation prompt. Follow the steps within the [Wallet Creation Walkthrough](/getting-started/user-guides/hcwallet-setup.md#wallet-creation-walkthrough) of the hcwallet Setup guide to finish.
 
@@ -52,8 +52,8 @@ This page was last updated for v1.1.2.
 
 1. Download the correct file:
 
-    For 32-bit computers, download the `hcinstall-windows-386-v1.1.2.exe` file. <br />
-    For 64-bit computers, download the `hcinstall-windows-amd64-v1.1.2.exe` file. <br />
+    For 32-bit computers, download the `hcinstall-windows-386-v2.0.0.exe` file. <br />
+    For 64-bit computers, download the `hcinstall-windows-amd64-v2.0.0.exe` file. <br />
 
 2.  Run the hcinstall executable file.
 

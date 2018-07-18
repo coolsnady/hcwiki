@@ -1,6 +1,6 @@
 # hcd Setup Guide 
 
-Last updated for v1.1.2.
+Last updated for v2.0.0.
 
 This guide is intended to help you setup the `hcd` application using [startup flags](/getting-started/startup-basics.md#startup-command-flags). 
 

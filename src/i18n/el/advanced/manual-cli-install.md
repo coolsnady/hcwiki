@@ -8,8 +8,8 @@ The newest Binary Releases can be found here: [https://github.com/decred/decred-
 
 1. Κάντε λήψη του σωστού αρχείου:
 
-    For 32-bit computers, download the `decred-darwin-386-v1.1.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.1.0.tar.gz` file.
+    For 32-bit computers, download the `decred-darwin-386-v2.0.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-darwin-amd64-v2.0.0.tar.gz` file.
 
 2. Πλοηγηθείτε στην τοποθεσία λήψης και κάντε εξαγωγή του αρχείου .tar.gz:
 
@@ -18,24 +18,24 @@ The newest Binary Releases can be found here: [https://github.com/decred/decred-
 
     **ΣΗΜΕΙΩΣΗ**: Εάν χρησιμοποιείτε το Safari στο macOS Sierra και έχετε την επιλογή 'Άνοιγμα "ασφαλών" αρχείων μετά την λήψη' ενεργοποιημένη, τα αρχεία .gz και .zip αποσυμπιέζονται αυτόματα μετά τη λήψη. Η εντολή `tar -xvzf filename.tar.gz` έχει ως αποτέλεσμα αυτό το σφάλμα: `tar: Σφάλμα ανοίγματος αρχείου: Αποτυχία ανοίγματος 'filename.tar.gz'`. Αντίθετα, χρησιμοποιήστε το `tar -xvzf filename.tar` (αφαιρέστε το .gz από την προηγούμενη εντολή).
     
-    Both of these should extract the tar into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v1.1.0.tar.gz` should extract to `decred-darwin-amd64-v1.1.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
+    Both of these should extract the tar into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v2.0.0.tar.gz` should extract to `decred-darwin-amd64-v2.0.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
 
 
 > Linux
 
 1. Κάντε λήψη του σωστού αρχείου:
 
-    For 32-bit computers, download the `decred-linux-386-v1.1.0.tar.gz` file. <br />
-    For 64-bit computers, download the `decred-darwin-amd64-v1.1.0.tar.gz` file. <br />
-    For 32-bit ARM computers, download the `decred-linux-arm-v1.1.0.tar.gz` file. <br />
-    For 64-bit ARM computers, download the `decred-linux-arm64-v1.1.0.tar.gz` file.
+    For 32-bit computers, download the `decred-linux-386-v2.0.0.tar.gz` file. <br />
+    For 64-bit computers, download the `decred-darwin-amd64-v2.0.0.tar.gz` file. <br />
+    For 32-bit ARM computers, download the `decred-linux-arm-v2.0.0.tar.gz` file. <br />
+    For 64-bit ARM computers, download the `decred-linux-arm64-v2.0.0.tar.gz` file.
 
 2. Πλοηγηθείτε στην τοποθεσία λήψης και κάντε εξαγωγή του αρχείου .tar.gz:
 
     Πρόγραμμα Περιήγησης Αρχείων του Ubuntu: Απλά κάντε δεξί κλικ στο αρχείο .tar.gz και επιλέξτε "Εξαγωγή Εδώ". <br />
    Τερματικό: Χρησιμοποιήστε την εντολή `tar -xvzf filename.tar.gz`.
     
-    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v1.1.0.tar.gz` should extract to `decred-darwin-amd64-v1.1.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
+    Both of these should extract the tar.gz into a folder that shares the same name. (`e.g. tar -xvzf decred-darwin-amd64-v2.0.0.tar.gz` should extract to `decred-darwin-amd64-v2.0.0`). It should include `dcrctl`, `dcrd`, `dcrwallet`, `sample-dcrctl.conf`, `sample-dcrd.conf`, and `sample-dcrwallet.conf`.
 
 > Windows
 
@@ -43,8 +43,8 @@ The newest Binary Releases can be found here: [https://github.com/decred/decred-
 
 1. Κάντε λήψη του σωστού αρχείου:
 
-    For 32-bit computers, download the `decred-windows-386-v1.1.0.zip` file. <br />
-    For 64-bit computers, download the `decred-windows-amd64-v1.1.0.zip` file.
+    For 32-bit computers, download the `decred-windows-386-v2.0.0.zip` file. <br />
+    For 64-bit computers, download the `decred-windows-amd64-v2.0.0.zip` file.
 
 2. Πλοηγηθείτε στην τοποθεσία λήψης και κάντε εξαγωγή του αρχείου `.zip`:
 

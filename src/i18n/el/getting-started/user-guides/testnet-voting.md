@@ -30,7 +30,7 @@ Below are instructions to participate in the voting demo on the Testnet using a 
 
 > Βήμα 1: Λήψη και Εγκατάσταση του Paymetheus
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/paymetheus.md) and follow the directions for the Windows Installer.
 
 > Βήμα 2: Εκτέλεση του Decret Testnet
 
@@ -70,7 +70,7 @@ For some basic information about Votebits, visit [An Explanation of Votebits](#a
 
 > Βήμα 1: Λήψη και Εγκατάσταση του Decred
 
-If you haven't already updated your Decred binaries to v1.1.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
+If you haven't already updated your Decred binaries to v2.0.0, visit the [Installation Guide](/getting-started/user-guides/cli-installation.md) and follow the directions for your operating system.
 
 > Βήμα 2: Δημιουργία Αρχείων Ρυθμίσεων
 

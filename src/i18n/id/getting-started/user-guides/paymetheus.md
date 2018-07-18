@@ -8,7 +8,7 @@ Tentang satu-satunya yang tidak dilakukan Paymetheus adalah voting PoS.
 
 ## Unduh dan pasang 
 
-The Windows Installer (`.msi` file) is located here: [https://github.com/decred/decred-binaries/releases/tag/v1.1.0](https://github.com/decred/decred-binaries/releases/tag/v1.1.0). It will install Paymetheus to your computer's Program Files folder. Installation is pretty straightforward, but instructions are provided below:
+The Windows Installer (`.msi` file) is located here: [https://github.com/decred/decred-binaries/releases/tag/v2.0.0](https://github.com/decred/decred-binaries/releases/tag/v2.0.0). It will install Paymetheus to your computer's Program Files folder. Installation is pretty straightforward, but instructions are provided below:
 
 1. 1.Download file yang benar:
 
